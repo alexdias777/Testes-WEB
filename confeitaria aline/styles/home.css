@@ -2,7 +2,7 @@
 
 #home{
     display: flex;
-    min-height: calc(100vh - 5.6875rem);/*Ocupando 100vh  a partir  da navbar*/
+    min-height: calc(100vh - 5.6875rem);/*Ocupando 100vh  a partir  da nav bar*/
     position: relative;
    
 }
